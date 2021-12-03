@@ -1,4 +1,4 @@
-input_file = open('./day-1-input.txt', 'r')
+input_file = open('./day01-input.txt', 'r')
 input_data = input_file.read().rstrip().split('\n')
 
 # problem 1
